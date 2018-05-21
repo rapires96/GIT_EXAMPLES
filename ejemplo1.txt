@@ -1,2 +1,4 @@
 hola tio
 estoy modificando el fichero en la rama1
+quiero entenderte git, pero eres muy complicada
+Adios para siempre
